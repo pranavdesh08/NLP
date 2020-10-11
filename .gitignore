@@ -1,0 +1,5 @@
+embedded_vec.model.docvecs.vectors_docs.npy
+cleaned_reviews.csv
+comments_trustpilot_en.csv
+embedded_vec.model
+.ipynb_checkpoints
